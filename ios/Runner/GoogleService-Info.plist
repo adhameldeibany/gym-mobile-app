@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>541712904242-f87ajl7nm66ukijmr23ltq60uuli9k6v.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.541712904242-f87ajl7nm66ukijmr23ltq60uuli9k6v</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCFF-cOqTpbAP06pVi6jZ9Y6IH3kbH7YFI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>541712904242</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.flockerlabs.flockergym</string>
+	<key>PROJECT_ID</key>
+	<string>flockergymapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flockergymapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:541712904242:ios:075c8bfcb50f9e27234c2b</string>
+	<key>DATABASE_URL</key>
+	<string>https://flockergymapp-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "541712904242",
+    "firebase_url": "https://flockergymapp-default-rtdb.firebaseio.com",
+    "project_id": "flockergymapp",
+    "storage_bucket": "flockergymapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541712904242:android:5f1837d804d5b7ca234c2b",
+        "android_client_info": {
+          "package_name": "com.flockerlabs.FlockerGymSystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541712904242-1sc0hbi05psh4o32e5nsrk4ioqscbmb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCANXiBn44AC2PAVx0P_4s1ZvKJy1Ac8nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541712904242-1sc0hbi05psh4o32e5nsrk4ioqscbmb3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "541712904242-qt9u66emgvqpcidplm2pljrjj4o4kas5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flockerlabs.FlockerGymSystem"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541712904242:android:d17a7232d8d75065234c2b",
+        "android_client_info": {
+          "package_name": "com.flockerlabs.flockergym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541712904242-1sc0hbi05psh4o32e5nsrk4ioqscbmb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCANXiBn44AC2PAVx0P_4s1ZvKJy1Ac8nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541712904242-1sc0hbi05psh4o32e5nsrk4ioqscbmb3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "541712904242-qt9u66emgvqpcidplm2pljrjj4o4kas5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flockerlabs.FlockerGymSystem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
